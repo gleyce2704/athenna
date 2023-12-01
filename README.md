@@ -76,7 +76,8 @@ _Fonte de estudo: https://brasil.un.org/pt-br/sdgs/16_
   • Chat exclusivo: entre o usuário e seus contatos; podem se comunicar pelo chat privado, receber e enviar alertas de emergência e endereços de locais quentes registrados.
 
   • Acompanhamento de Rota em Tempo Real: O aplicativo monitora a jornada em tempo real e alerta automaticamente caso aja proximidade com um local quente. Se o usuário escolher um contato como de emergência pelo aplicativo, ao estar em um local quente ou próximo, o seu contato receberá notificação.
-
+  
+  • Verificação de senha: verificação feita por código enviado por e-mail ou sms. 
 
 
 
