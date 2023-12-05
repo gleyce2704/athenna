@@ -28,7 +28,8 @@ _Fonte de estudo: https://brasil.un.org/pt-br/sdgs/16_
 # Informações 
 • Nome e Logo: escolhemos uma variação para Atena e a alteramos para um que não existe. Para o Logo, foi feito um estudo de vetores sob uma imagem modelo da personagem escolhida. 
 
-![image](https://github.com/gleyce2704/athenna/assets/143562839/ffd0d51e-450e-4917-a686-fc8defb58579)
+![image](https://github.com/gleyce2704/athenna/assets/143562839/8b518d2b-9a09-4433-aea8-a3d7d8525d00)
+
 
 • Estilo:
 
